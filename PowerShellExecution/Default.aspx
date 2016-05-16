@@ -6,12 +6,12 @@
 <head runat="server">
     <title></title>
 </head>
-<body>
+<body style="font-size: medium; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; text-align: center">
     <form id="form1" runat="server">
     <div>
      <table>
-            <tr><td>&nbsp;</td><td><h1 align="left">PowerShell Command Harness</h1></td></tr>
-            <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+            <tr><td>&nbsp;</td><td><h1 align="left" style="text-align: center">PowerShell Command</h1></td></tr>
+            <tr><td>&nbsp;</td><td style="font-size: medium; font-family: Calibri">&nbsp;</td></tr>
             <tr><td>&nbsp;</td><td>PowerShell Command</td></tr>
             <tr><td>
                 <br />

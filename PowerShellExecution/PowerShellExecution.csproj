@@ -110,12 +110,21 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CommandCentre.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
+    <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommandCentre.aspx.cs">
+      <DependentUpon>CommandCentre.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CommandCentre.aspx.designer.cs">
+      <DependentUpon>CommandCentre.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
