@@ -10,9 +10,9 @@
     <form id="form1" runat="server">
     <div>
      <table>
-            <tr><td>&nbsp;</td><td><h1 align="left" style="text-align: center">PowerShell Command</h1></td></tr>
+            <tr><td>&nbsp;</td><td><h1 align="left" style="text-align: center">Virtual IT Support</h1></td></tr>
             <tr><td>&nbsp;</td><td style="font-size: medium; font-family: Calibri">&nbsp;</td></tr>
-            <tr><td>&nbsp;</td><td>PowerShell Command</td></tr>
+            <tr><td>&nbsp;</td><td>Server Name</td></tr>
             <tr><td>
                 <br />
                 </td><td>
