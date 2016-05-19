@@ -59,6 +59,7 @@ namespace PowerShellExecution
 
             // Execute the script
             shell.Invoke();
+            Thread.Sleep(2000);
 
             //Refresh current page
             Response.Redirect(Request.RawUrl);
@@ -74,6 +75,7 @@ namespace PowerShellExecution
 
             // Execute the script
             shell.Invoke();
+            Thread.Sleep(2000);
 
             //Refresh current page
             Response.Redirect(Request.RawUrl);
