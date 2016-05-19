@@ -22,8 +22,9 @@
                 </div>
             </div>
         </div>
-        <div style="height: 61px; width: 285px; z-index: 1; left: 32px; top: 170px; position: absolute">
-            <h2>&nbsp;Mimix Account</h2>
+        <div style="height: 61px; width: 285px; z-index: 1; left: 32px; top: 170px; position: absolute; text-align: center;">
+            <h4>&nbsp;Mimix Account is currently:</h4>
+            <asp:Label ID="lbl_MimixAccountStatus" runat="server" style="z-index: 1; left: 95px; top: 41px; position: absolute; width: 92px" Text="Label"></asp:Label>
             &nbsp;
         </div>
     </form>
